@@ -1,2 +1,2 @@
-# data-wrangling
-Python data wrangling to find a relationship between DC average income and 311 call frequency
+# Data Wrangling in Python
+I practiced data wrangling skills such as merging, aggregating, subsetting, and summarizing using data from Open Data DC and the American Community Survey, looking for a relationship between average income in DC and the frequency of 311 requests. I presented the results in a Jupyter notebook with a brief data science report before the Python code.
